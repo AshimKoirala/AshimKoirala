@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimkoirala&show_icons=true&locale=en&layout=compact" alt="ashimkoirala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashimkoirala&" alt="ashimkoirala" /></p>
+
