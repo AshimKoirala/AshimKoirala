@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Frontend and React development**
 
