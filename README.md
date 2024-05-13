@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Frontend and React development**
+- 💬 Ask me about **Frontend and ReactJS**
 
 - 📫 How to reach me **ashimkoirala01@gmail.com**
 
