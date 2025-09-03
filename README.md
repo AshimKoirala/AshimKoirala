@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashim Koirala</h1>
-<h3 align="center">The guy you were looking for?</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHp6MWp6Y3ZoNjA3cXBpb3Q5Zjc4anJtb3Ewcm9ucDYxcnVkb2g2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif">
+- I am Frontend Web Developer with database capabilities, bridging UI and data layers. <br /> <br />
+- Portfolio : https://ashimkoirala.vercel.app/ <br /> <br />
+- 📫 How to reach me **ashimkoirala01@gmail.com** <br />
+<br /> <br /> <br />
 
-- 📫 How to reach me **ashimkoirala01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ashimkoirala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashimkoirala" height="30" width="40" /></a>
+                    
+                  
+              
+                    
+
 
 
 
